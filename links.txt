@@ -1,1 +1,93 @@
 https://chatgpt.com/share/67c7eb95-cc90-8010-bfca-285e7adaf3fe
+
+
+https://ieeexplore.ieee.org/abstract/document/9378748
+
+https://link.springer.com/article/10.1007/s41060-021-00302-z
+
+https://ieeexplore.ieee.org/document/10614154
+
+https://link.springer.com/article/10.1007/s10479-022-05015-5
+
+https://ieeexplore.ieee.org/document/9673252
+
+https://ieeexplore.ieee.org/document/10860165
+
+https://link.springer.com/article/10.1007/s10586-023-04261-x
+
+https://ieeexplore.ieee.org/document/9223306
+
+
+
+
+
+Here are the research papers with their respective links:
+
+"Fake News Detection Using Machine Learning"
+IEEE Xplore
+
+"Fake News Detection Based on News Content and Social Contexts: A Comprehensive Survey"
+Springer
+
+"Fake News Detection Using Deep Learning: A Systematic Literature Review"
+IEEE Xplore
+
+"Detecting Fake News and Disinformation Using Artificial Intelligence: Challenges and Opportunities"
+Springer
+
+"A Study on Artificial Intelligence Techniques for Fake News Detection"
+IEEE Xplore
+
+"Blockchain Technology in Secure Voting Systems: Enhancing Transparency and Trustworthiness"
+IEEE Xplore
+
+"Transforming Online Voting: A Novel System Utilizing Blockchain and Enhanced Security Protocols"
+Springer
+
+"TrustVote: On Elections We Trust with Distributed Ledgers and Smart Contracts"
+IEEE Xplore
+
+"How to Increase Transparency and Trust in Internet Voting Systems: An Experimental Study"
+ACM Digital Library
+
+"A Framework for Transparency in Voting Systems Using Blockchain Technology"
+JETIR
+
+
+
+
+
+
+
+
+​Here are some GitHub repositories that align with your project on AI-powered fake news detection and trust-based voting systems:
+
+**1. Fake News Detection Repositories:**
+
+- **Fake News Detection using Machine Learning**  
+  This project utilizes machine learning and natural language processing techniques to identify and classify fake news articles. It includes data analysis, model training, and a real-time web application for detecting fake news.  
+  citeturn0search0
+
+- **Fake News Detection by IIT Guwahati AI**  
+  Developed by IIT Guwahati's AI team, this project employs models like BERT to detect political fake news and clickbait, achieving notable accuracy improvements over previous benchmarks.  
+  citeturn0search4
+
+- **Fake News Detection Project**  
+  This project aims to develop a machine-learning model capable of identifying and classifying any news article as fake or not. It involves building and training a model using a diverse dataset of news articles.  
+  citeturn0search6
+
+**2. Blockchain-Based Voting System Repositories:**
+
+- **Blockchain Voting System by Nikosane**  
+  A decentralized and secure voting system powered by blockchain technology. This project leverages Ethereum smart contracts to ensure transparency, immutability, and fairness in the voting process.  
+  citeturn0search3
+
+- **Decentralized Voting System Using Ethereum Blockchain**  
+  This project offers a secure and transparent solution for conducting elections by leveraging Ethereum's blockchain technology, ensuring tamper-proof voting records and enabling remote voting while maintaining anonymity.  
+  citeturn0search5
+
+- **Blockchain Voting System by safoinetl**  
+  A decentralized voting system built with Flask, ensuring secure and transparent voting. Each vote is immutable and recorded on the blockchain, featuring unique voter IDs and real-time updates.  
+  citeturn0search9
+
+These repositories provide practical implementations of fake news detection using AI and secure voting systems using blockchain technology, which could serve as valuable references for your project. 
