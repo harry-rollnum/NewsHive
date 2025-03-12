@@ -1,8 +1,6 @@
 
 ---
 
-## ✅ **Simplified Abstract (Layman + Academic Friendly)**
-
 ### **Abstract—**
 
 In today’s digital world, fake news spreads faster than ever—often causing confusion, panic, and division. Social media platforms allow users to vote or like posts, but these systems are often misused. Biased users or fake accounts can boost false information, making it hard to trust what’s real.
@@ -20,7 +18,7 @@ This system helps build a healthier digital space where truth matters more than 
 ## 🎯 **Simplified Project Pitch**
 
 ### 💡 **Project Title:**  
-**Crowd-Verified News & Trust-Based Voting System**
+**NewsHive**
 
 ---
 
