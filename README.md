@@ -1,1 +1,1 @@
-# Mini_PRoject_2025
+# Mini_Project_2025
