@@ -1,4 +1,3 @@
-Absolutely! Here's the **simplified and layman-friendly version** of both the **abstract** and the **pitch**—perfect for project submissions, presentations, or explaining to non-technical faculty or peers.
 
 ---
 
@@ -64,4 +63,3 @@ We built a system that:
 
 ---
 
-Let me know if you want this in PowerPoint format or printable brochure style! Or if you’d like me to write the **introduction section** of the report next.
